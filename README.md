@@ -12,3 +12,6 @@ A C++ implementation of the Blokus board game, developed as a series of delivera
 ## Deliverable 4:
 
 **Virtual Functions & Templates** – Implemented the evaluateBoard virtual function to evaluate different board states based on the occupied squares of the players. The computer player uses this evaluation to compare possible moves and select the best available move. Also implemented the template functions shuffle and getElementWithMaxScore for randomly rearranging elements and selecting the move with the highest score.
+
+
+–Team project (4 members: Alexis Spanos, Konstantina-Styliani Masia, Evangellos Tasios, Athanasios Karamichas)
